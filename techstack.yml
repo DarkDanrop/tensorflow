@@ -2,7 +2,7 @@ repo_name: DarkDanrop/tensorflow
 report_id: 5ca0b46f38bccddde9376d1d964a3749
 version: 0.1
 repo_type: Public
-timestamp: '2024-01-05T09:26:59+00:00'
+timestamp: '2024-02-29T18:01:23+00:00'
 requested_by: gunan
 provider: github
 branch: master
@@ -128,7 +128,7 @@ tools:
   detection_source_url: https://github.com/DarkDanrop/tensorflow
   detection_source: Repo Metadata
 - name: Swift
-  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
   website_url: https://developer.apple.com/swift/
   license: Apache-2.0
   open_source: true
@@ -178,7 +178,7 @@ tools:
   last_updated_by: Soila Kavulya
   last_updated_on: 2018-08-21 20:08:25.000000000 Z
 - name: CMake
-  description: 'An open-source system that manages the build process '
+  description: An open-source system that manages the build process
   website_url: http://www.cmake.org/
   open_source: false
   hosted_saas: false
